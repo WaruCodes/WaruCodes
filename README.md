@@ -1,4 +1,4 @@
-![MasterHead](https://0xdc.me/blog/github-templates-and-repository-sync/banner.webp)
+
 <h1 align="center">Hi 👋, I'm Warushika!!!</h1>
 <h3 align="center">A passionate QA enthusiast, ensuring software quality through meticulous testing and continuous improvement.</h3>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/femalecodertocat.png">
